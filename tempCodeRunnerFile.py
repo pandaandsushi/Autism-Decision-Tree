@@ -1,0 +1,2 @@
+
+isX = answer["x"]
